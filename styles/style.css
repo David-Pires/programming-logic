@@ -5,3 +5,11 @@ body {
 .center-body {
   text-align: center;
 }
+
+textarea {
+  border: none;
+  resize: none;
+  font-size: large;
+  color: whitesmoke;
+  background-color: black;
+}
